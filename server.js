@@ -4,11 +4,6 @@ import expressReactViews from "express-react-views";
 import isUrl from "is-url";
 import mongodb from "mongodb";
 
-/*
-express URL shortener
-similar to bit.ly or cut.ly
-*/
-
 const main = async () => {
   dotenv.config();
 
