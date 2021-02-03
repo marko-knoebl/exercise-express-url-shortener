@@ -15,6 +15,14 @@ export default () => {
           </label>
           <button type="submit">Create short URL</button>
         </form>
+        <p>
+          <small>
+            source code:{" "}
+            <a href="https://github.com/marko-knoebl/exercise-express-url-shortener">
+              https://github.com/marko-knoebl/exercise-express-url-shortener
+            </a>
+          </small>
+        </p>
       </body>
     </html>
   );
